@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bookshelf</title>
+    <link rel="stylesheet" href="styles.css">
+
+<section>
+<font face="Courier"><h1>Bookshelf</h1></font>
+
+            <font face="Lucida Calligraphy">
+    <hr width = "60%" size = "5" color="white">
+            <h3>Welcome to the official website of 'The Bookshelf'</h3>
+        </font>
+
+
+
+ 
+      
+
+    <font face="Lucida Calligraphy">
+    <p>
+        
+        
+    </p>
+        <hr>
+        <button class="btn about"><a href="about.html" target="_blank">About Us</a></button>
+
+      </section>
+      </font>
+     </head>
+      <body>
+      </body>
+</html>
