@@ -1,0 +1,46 @@
+section {
+    background-color: black;
+}
+
+h3 {
+    text-align: center;
+    color: cyan;
+    font-weight: bold;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+    color: maroon;
+}
+
+p {
+    text-align: center;
+    color: cyan;
+    font-weight: bold;
+}
+
+body {
+      background-color: olive;
+}
+
+.btn {
+  border: 90;
+  border-color: red;
+  background-color: inherit;
+  padding: 14 px 28 px;
+  font-size: 16 px;
+  cursor: pointer;
+  display: inline-block;
+  color: green;
+}
+
+/* On mouse-over */
+.btn:hover {background: #ffffff;}
+
+.about {color: green;}
