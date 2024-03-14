@@ -1,1 +1,1 @@
-alert("Hi I'm Jassistant, Your Virtual Assistant")
+alert("Please note: this website is still under development")
